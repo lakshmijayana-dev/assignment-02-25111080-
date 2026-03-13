@@ -1,4 +1,4 @@
-# ETL Notes
+ ETL Notes
 
 ETL stands for Extract, Transform, Load.
 
