@@ -1,0 +1,35 @@
+[
+    {
+        "name": "laptop",
+        "category": "electronics",
+        "price": 30000,
+        "warranty": "3 years",
+        "specs": {
+            "processor": "i15",
+            "ram": "8GB"
+        }
+    },
+    {
+        "name": "shirt",
+        "category": "clothing",
+        "price": 500,
+        "size": "m",
+        "material": "cotton"
+    },
+    {
+        "name": "milk",
+        "category": "groceries",
+        "price": 50,
+        "expiry_date": "2025-01-01",
+        "nutritiona": {
+            "calories": 100
+        }
+    }
+]
+            
+            
+        
+    
+    
+        
+    
